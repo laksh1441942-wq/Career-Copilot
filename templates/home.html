@@ -1,0 +1,11 @@
+{% extends "index.html" %}
+{% block content %}
+    <h1>Welcome to CareerCopilot</h1>
+    <p>It is a resume analyser which will predict your salary according to job description. </p>
+    {% for post in posts %}
+    <h1>{{ post.title }}</h1>
+    <h2> {{ post.name }}</h2>
+    <p>{{ post.content}}</p>
+
+    {% endfor %}
+{% endblock content %}
