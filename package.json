@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "tsc": "^2.0.4"
+  },
+  "name": "careercopilot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "intro.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laksh1441942-wq/Career-Copilot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/laksh1441942-wq/Career-Copilot/issues"
+  },
+  "homepage": "https://github.com/laksh1441942-wq/Career-Copilot#readme"
+}
